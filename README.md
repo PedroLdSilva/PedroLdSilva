@@ -1,5 +1,5 @@
-Oii! Me chamo Pedro Laurindo
+Ola, Eu sou  o Pedro Laurindo
 
-Desenvolvedor Front End 
+Desenvolvedor Front End
 
 pedrol_dsilva@hotmail.com 📧
